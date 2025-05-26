@@ -1,0 +1,6 @@
+reading from file capture.pcapng, link-type EN10MB (Ethernet), snapshot length 65536
+03:24:27.598607 IP 10.244.1.5.39747 > dns.google.domain: Flags [S], seq 439061619, win 64660, options [mss 1220,sackOK,TS val 315779812 ecr 0,nop,wscale 7], length 0
+03:24:28.685656 IP 10.244.1.5.39159 > dns.google.domain: Flags [S], seq 648587299, win 64660, options [mss 1220,sackOK,TS val 315780915 ecr 0,nop,wscale 7], length 0
+03:24:29.764029 IP 10.244.1.5.43135 > dns.google.domain: Flags [S], seq 2602431650, win 64660, options [mss 1220,sackOK,TS val 315781993 ecr 0,nop,wscale 7], length 0
+03:24:30.832174 IP 10.244.1.5.32997 > dns.google.domain: Flags [S], seq 650492225, win 64660, options [mss 1220,sackOK,TS val 315783062 ecr 0,nop,wscale 7], length 0
+03:24:31.917872 IP 10.244.1.5.34563 > dns.google.domain: Flags [S], seq 3130899103, win 64660, options [mss 1220,sackOK,TS val 315784146 ecr 0,nop,wscale 7], length 0

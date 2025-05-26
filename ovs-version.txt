@@ -1,0 +1,6 @@
+Command:
+kubectl exec -n kube-system antrea-agent-gj6sh -c antrea-ovs -- ovs-vsctl --version
+
+Output:
+ovs-vsctl (Open vSwitch) 2.17.7
+DB Schema 8.3.0
